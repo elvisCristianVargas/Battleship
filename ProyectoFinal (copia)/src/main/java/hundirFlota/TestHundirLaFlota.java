@@ -1,6 +1,12 @@
 package hundirFlota;
+/**
+*class where you can play the game by console command 
+*
+*
+*/
 
 import java.util.Scanner;
+
 
 public class TestHundirLaFlota {
 	
