@@ -1,0 +1,34 @@
+{"usuarios": [
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": -305,
+                "puntuacionMaxima": 0,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            }
+        ],
+        "passwd": "MTIzNA==",
+        "nombre": "VikinXX"
+    },
+    {
+        "juegos": [
+            {
+                "puntuacionMinima": 100,
+                "puntuacionMaxima": 100,
+                "juego": "Hundir la Flota"
+            },
+            {
+                "puntuacionMinima": 0,
+                "puntuacionMaxima": 0,
+                "juego": "wordle"
+            }
+        ],
+        "passwd": "MQ==",
+        "nombre": "1"
+    }
+]}
